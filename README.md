@@ -22,12 +22,12 @@ This is the first step where users can upload their CSV file. The app provides a
 ![Screenshot 1](screenshots/sc1.png)
 
 ### 2. Sentiment Analysis Results
-Once the file is uploaded, the app shows the sentiment analysis results for each comment, including sentiment scores and categories.
+A visualization displaying the distribution of sentiments across comments (Positive, Neutral, Negative).
 
 ![Screenshot 2](screenshots/sc2.png)
 
 ### 3. Sentiment Distribution Visualization
-A visualization displaying the distribution of sentiments across comments (Positive, Neutral, Negative).
+The app shows the sentiment analysis results for each comment, including sentiment scores and categories. You can also download the Sentiment in CSV.
 
 ![Screenshot 3](screenshots/sc3.png)
 
