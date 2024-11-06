@@ -19,17 +19,17 @@ Welcome to the **Reddit Climate Change Sentiment Analyzer**! This Streamlit app 
 ### 1. Upload CSV and View Introduction
 This is the first step where users can upload their CSV file. The app provides an introductory overview of its functionalities.
 
-![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 1](screenshots/Screenshot 1.png)
 
 ### 2. Sentiment Analysis Results
 Once the file is uploaded, the app shows the sentiment analysis results for each comment, including sentiment scores and categories.
 
-![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 2](screenshots/Screenshot 2.png)
 
 ### 3. Sentiment Distribution Visualization
 A visualization displaying the distribution of sentiments across comments (Positive, Neutral, Negative).
 
-![Screenshot 3](screenshots/Screenshot3.png)
+![Screenshot 3](screenshots/Screenshot 3.png)
 
 ---
 
